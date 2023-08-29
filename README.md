@@ -35,3 +35,5 @@ Fluie Discord: fluie039#0380
 Bilder: nur Format PNG, Verhältnis 1280x720 Pixel
 
 Sound Datei: Bitte MP3
+
+Bei der .veg handelt sich um die Sony Vegas datei, diese könnte also nur öffnen wenn ihr Sonny Vegas habt und alle datei
