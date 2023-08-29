@@ -31,3 +31,5 @@ Dadurch das der ein Einladungslink auf Discord regelmäßig abläuft solltet ihr
 und ich werde euch rechtzeitig auf den Server hinzufügen.
 
 Fluie Discord: fluie039#0380
+
+Bilder: nur Format PNG, Verhältnis 1280x720 Pixel
