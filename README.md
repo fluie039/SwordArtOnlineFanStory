@@ -29,4 +29,5 @@ Wie kann ich dem Server beitretten?
 
 Dadurch das der ein Einladungslink auf Discord regelmäßig abläuft solltet ihr mir eine FA auf Discord senden 
 und ich werde euch rechtzeitig auf den Server hinzufügen.
+
 Fluie Discord: fluie039#0380
