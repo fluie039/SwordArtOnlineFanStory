@@ -33,3 +33,5 @@ und ich werde euch rechtzeitig auf den Server hinzufügen.
 Fluie Discord: fluie039#0380
 
 Bilder: nur Format PNG, Verhältnis 1280x720 Pixel
+
+Sound Datei: Bitte MP3
